@@ -17,7 +17,7 @@
 .offers-left h1{
     color:#171717;
     font-weight: 550;
-    font-size: 50px;
+    font-size: 40px;
     margin-bottom: 15px;
 }
 .offers-left p{
@@ -76,7 +76,7 @@
 @media(max-width:1024px){
     .offers{
         height:40vh;
-        padding:0px 60px;
+        padding:0px 80px;
         margin-bottom:80px;
         margin-top:70px;
     }
@@ -104,8 +104,9 @@
 @media(max-width:800px){
     .offers{
         height: 30vh;
-        margin-top: 70px;
-        margin-bottom:60px;
+        margin-top: 50px;
+        margin-bottom:30px;
+    
     }
     .offers-left h1{
         font-size:16px;
