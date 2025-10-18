@@ -107,7 +107,7 @@
 @media(max-width:800px){
     .newsletter{
         height:35vh;
-        margin-top: 400px;
+        margin-top: 450px;
         margin-bottom: 30px;
         
     }
@@ -136,7 +136,7 @@
         height:25vh;
         width:100%;
         padding:0px;
-        margin-top: 750px;
+        margin-top: 850px;
         margin-bottom: 60px;
         gap:15px;
     }
